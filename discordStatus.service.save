@@ -1,0 +1,4 @@
+[Unit]
+Description=animated discord status
+After=network-online.target
+[Service] ExecStart=/home/pi/discord-customstatus/index.js

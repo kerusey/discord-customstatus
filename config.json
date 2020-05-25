@@ -1,0 +1,54 @@
+{
+	"token": "YOURDISCORDTOKEN",
+	"animation": [
+		{
+			"text": "(1/1) [----------] 0%",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 1000
+		},
+		{
+			"text": "(1/1) [##--------] 20%",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 1000
+		},
+		{
+			"text": "(1/1) [####------] 40%",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 1000
+		},
+		{
+			"text": "(1/1) [######----] 60%",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 1000
+		},
+		{
+			"text": "(1/1) [########--] 80%",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 1000
+		},
+		{
+			"text": "(1/1) [##########] 100%",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 1000
+		},
+		{
+			"text": "Hacks have been installed GLHF",
+			"emojiID": null,
+			"emojiName": null,
+			"timeout": 3000
+		},
+		{
+			"text": "CoffeeBreaker™",
+			"emojiID": 713900305317756938,
+			"emojiName": "coffee",
+			"timeout": 3000
+		}
+
+	]
+}
